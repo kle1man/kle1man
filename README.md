@@ -5,12 +5,13 @@ I'm Alex Kleiman, an 18 year old aspiring full stack developer from Florida!
 #### Qualifications
 
 🎓 University of Maryland Class of '27 // International Baccalaureate Diploma Program Graduate\
-⌨️ Proficient in Java, Intermediate in Python\
+⌨️ Proficient in Java and Lua, Intermediate in Python\
 💻 MacOS, Windows, IOS, Kali Linux\
 🗣️ Fluent English, Fluent Russian, Intermediate Spanish
 
 #### Currently Working On...
 
+▶ My Neovim Configuration ([link](https://github.com/kle1man/nvim))\
 ▶ Searching/Preparing for Internships\
 ▶ Learning Full-Stack Development Skills\
 ▶ Improving in Python
