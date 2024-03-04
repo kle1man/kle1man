@@ -18,7 +18,8 @@ I'm Alex Kleiman, an 18 year old aspiring full stack developer from Florida!
 
 #### Contact Me!
 
-✉️ alexjkleiman@gmail.com
+✉️ alexjkleiman@gmail.com\
+🔗 [linkedin](https://www.linkedin.com/in/kle1man/)
 
 <!--
 **kle1man/kle1man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
