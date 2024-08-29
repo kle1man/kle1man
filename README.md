@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex Kleiman, an 18 year old aspiring full stack developer from Florida!
+I'm Alex Kleiman, a 19 year old aspiring Computer Science / Pre-Medical Track student from Florida!
 
 #### Qualifications
 
@@ -12,7 +12,6 @@ I'm Alex Kleiman, an 18 year old aspiring full stack developer from Florida!
 #### Currently Working On...
 
 ▶ My Neovim Configuration ([link](https://github.com/kle1man/nvim))\
-▶ Searching/Preparing for Internships\
 ▶ Learning Full-Stack Development Skills\
 ▶ Improving in Python
 
